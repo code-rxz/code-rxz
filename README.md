@@ -24,11 +24,6 @@
 
 
 
-
-![Licencia](https://img.shields.io/github/license/code-rxz/NOMBRE-DEL-REPO)
-
-
-
 Simulación de agua con fluidos dinámicos, en un solo archivo HTML y sin librerías.
 
 ## Demostración
