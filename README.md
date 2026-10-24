@@ -1,4 +1,41 @@
 # Simulación de agua 2D
+[
+
+![Demo en vivo](https://img.shields.io/badge/demo-en%20vivo-00b4d8)
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+
+
+
+![Dependencias](https://img.shields.io/badge/dependencias-0-brightgreen)
+
+
+
+
+![Optimizado para móvil](https://img.shields.io/badge/optimizado%20para-m%C3%B3vil-blue)
+
+
+
+
+![Licencia](https://img.shields.io/github/license/code-rxz/NOMBRE-DEL-REPO)
+
+
+
+
+![Último commit](https://img.shields.io/github/last-commit/code-rxz/NOMBRE-DEL-REPO)
+
+
+
+
+![Estrellas](https://img.shields.io/github/stars/code-rxz/NOMBRE-DEL-REPO?style=flat)
 
 Simulación de agua con fluidos dinámicos, en un solo archivo HTML y sin librerías.
 
