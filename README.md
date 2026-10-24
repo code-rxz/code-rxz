@@ -1,27 +1,11 @@
 # Simulación de agua 2D
-
-![Demo en vivo](https://img.shields.io/badge/demo-en%20vivo-00b4d8)
-
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-
-
-
-![Dependencias](https://img.shields.io/badge/dependencias-0-brightgreen)
-
-
-
-
-![Optimizado para móvil](https://img.shields.io/badge/optimizado%20para-m%C3%B3vil-blue)
-
-
+<p align="center">
+  <a href="https://code-rxz.github.io/code-rxz/"><img src="https://img.shields.io/badge/demo-en%20vivo-0ea5e9?style=flat-square&logo=githubpages&logoColor=white&labelColor=1e293b" alt="Demo en vivo"></a>
+  <img src="https://img.shields.io/badge/HTML5-1e293b?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/dependencias-0-22c55e?style=flat-square&labelColor=1e293b" alt="Cero dependencias">
+  <img src="https://img.shields.io/badge/optimizado%20para-m%C3%B3vil-38bdf8?style=flat-square&labelColor=1e293b" alt="Optimizado para móvil">
+</p>
 
 Simulación de agua con fluidos dinámicos, en un solo archivo HTML y sin librerías.
 
