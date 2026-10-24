@@ -3,6 +3,16 @@
 un solo archivo HTML y sin librerías
 
 es una simulación de agua con fluidos dinámicos 
+---
+
+
+
+https://github.com/user-attachments/assets/f44d56f0-248f-4458-8a49-d69e6bdbf420
+
+
+
+
+---
 
 Primero cree la malla de numeros (128 × 280) 
 
