@@ -57,3 +57,6 @@ Para cada píxel miro la **pendiente** del agua (la diferencia de altura entre v
 | Calidad | Cambia entre Alta, Media, Baja y Mínima |
 | Deslizador | Controla cuánto duran las olas |
 
+Puedes probar la simulación en el siguiente link 
+---
+https://code-rxz.github.io/code-rxz/
