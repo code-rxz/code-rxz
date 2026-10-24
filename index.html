@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Simulación de agua</title>
+<style>
+  html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    background: #021a2b;
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    color: #e8f6ff;
+  }
+  /* El lienzo es pequeño (ej. 128x280 px) y el navegador lo estira a pantalla
+     completa. Estirar es gratis para la CPU y suaviza la imagen. */
+  canvas {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    touch-action: none; /* evita que el dedo haga scroll o zoom */
+  }
+  #info {
+    position: fixed;
+    top: 8px;
+    left: 10px;
+    font-size: 12px;
+    opacity: .75;
+    pointer-events: none;
+    text-shadow: 0 1px 2px #000;
