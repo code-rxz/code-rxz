@@ -29,14 +29,6 @@
 
 
 
-
-![Último commit](https://img.shields.io/github/last-commit/code-rxz/NOMBRE-DEL-REPO)
-
-
-
-
-![Estrellas](https://img.shields.io/github/stars/code-rxz/NOMBRE-DEL-REPO?style=flat)
-
 Simulación de agua con fluidos dinámicos, en un solo archivo HTML y sin librerías.
 
 ## Demostración
