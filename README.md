@@ -7,7 +7,11 @@ es una simulación de agua con fluidos dinámicos
 
 
 
-https://github.com/user-attachments/assets/f44d56f0-248f-4458-8a49-d69e6bdbf420
+
+
+https://github.com/user-attachments/assets/3d93a2f9-027e-4602-b981-864e29004d93
+
+
 
 
 
