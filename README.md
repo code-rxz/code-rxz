@@ -1,5 +1,4 @@
 # Simulación de agua 2D
-[
 
 ![Demo en vivo](https://img.shields.io/badge/demo-en%20vivo-00b4d8)
 
